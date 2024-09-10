@@ -7,7 +7,7 @@ A simple EventEmitter class for PHP.
 You can install the package via Composer:
 
 ```bash
-composer require saksh/event-emitter
+composer require sakshstore/event-emitter
 ```
 
 ## Usage
