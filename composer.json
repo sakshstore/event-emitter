@@ -1,10 +1,11 @@
+
 {
-"name": "saksh/SakshEventEmitter",
-"description": "A saksh EventEmitter class for PHP.",
+"name": "sakshstore/event-emitter",
+"description": "A simple EventEmitter class for PHP.",
 "type": "library",
 "autoload": {
 "psr-4": {
-"YourNamespace\\EventEmitter\\": "src/"
+"saksh\\SakshEventEmitter\\": "src/"
 }
 },
 "require": {
@@ -12,8 +13,8 @@
 },
 "authors": [
 {
-"name": "susheelhbti",
-"email": "susheelhbti@gmail.com"
+"name": "Your Name",
+"email": "your.email@example.com"
 }
 ],
 "minimum-stability": "stable"
