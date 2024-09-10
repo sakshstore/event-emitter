@@ -1,0 +1,20 @@
+{
+"name": "saksh/SakshEventEmitter",
+"description": "A saksh EventEmitter class for PHP.",
+"type": "library",
+"autoload": {
+"psr-4": {
+"YourNamespace\\EventEmitter\\": "src/"
+}
+},
+"require": {
+"php": ">=7.0"
+},
+"authors": [
+{
+"name": "susheelhbti",
+"email": "susheelhbti@gmail.com"
+}
+],
+"minimum-stability": "stable"
+}
